@@ -145,5 +145,5 @@ This documentation refers to version 1.0 of the LlamaGen Comic API. Future updat
 
 ---
 
-For more information or support, please contact our API support team at [support@llamagen.ai](mailto:support@llamagen.ai).
+For more information or support, please contact our API support team at [contact@llamagen.ai](mailto:contact@llamagen.ai).
 
